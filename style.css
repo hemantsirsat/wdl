@@ -1,0 +1,17 @@
+*{
+	scroll-behavior: smooth;
+}
+.jumbotron{
+	margin: 0px;
+}
+
+.row p,h1{
+	text-align: center;
+}
+ 
+.text{
+	color: white;
+}
+form{
+	padding: 10px;
+}
