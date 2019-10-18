@@ -16,3 +16,8 @@ form{
 	padding: 10px;
 }
 
+.jumbotron img{
+	display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
